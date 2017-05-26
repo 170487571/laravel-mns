@@ -20,7 +20,7 @@
 通过 Composer 安装：
 
 ```shell
-$ composer require abe/laravel-mns
+$ composer require hardy-wang/laravel-mns
 ```
 
 之后在 config/queue.php 中增加 `mns` 配置：
