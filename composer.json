@@ -1,12 +1,12 @@
 {
-    "name": "abe/laravel-mns",
+    "name": "hardy-wang/laravel-mns",
     "description": "Laravel queue driver bases on Aliyun Message Service(MNS).",
     "keywords": ["aliyun", "laravel", "queue", "mns"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Abraham Greyson",
-            "email": "82011220@qq.com"
+            "name": "Hardy Wang",
+            "email": "170487571@qq.com"
         }
     ],
     "support": {
